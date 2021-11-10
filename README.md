@@ -18,8 +18,7 @@ https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&log
 https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white
 https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl
 https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white
-https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+
 -->
 <p align="center">
   <img src="https://media2.giphy.com/media/TFjDMaGfLzv3CVkYAN/giphy.gif?cid=790b76117f7c8fef273cb610a1b03dac05edf7754a2d7e52&rid=giphy.gif&ct=s" width=320 height=272/><br>
